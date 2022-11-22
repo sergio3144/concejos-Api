@@ -21,4 +21,4 @@
     <li> CSS
     <li> SASS
     <li> JAVASCRIPT
-    <li> APO
+    <li> API
